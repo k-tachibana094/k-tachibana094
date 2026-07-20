@@ -8,8 +8,8 @@
   </a>
 </p>
 
-##### I'm new to engineering and there's so much I don't understand, so please teach me!
-##### Also, my native language is Japanese, so I can't speak much English—I'm studying it right now.
+#### I'm new to engineering and there's so much I don't understand, so please teach me!
+#### Also, my native language is Japanese, so I can't speak much English—I'm studying it right now.
 
 ## My Language and Tools
 ![Tech Stack](https://skillicons.dev/icons?i=python,git,vscode,notion)
@@ -26,10 +26,11 @@
 </a>
 </p>
 
----
+-----
 
-**Credits: k-tachibana094**<br>  
+**Credits: [k-tachibana094](https://github.com/k-tachibana094)**<br>  
 **Last Edited on: 07/20/2026**
+
 <!--
 **k-tachibana094/k-tachibana094** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
