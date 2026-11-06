@@ -15,7 +15,7 @@
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,python,django,git,vscode,notion,gmail)
 
 ## Now Training Language,FrameWork&others
-![Tech Stack](https://skillicons.dev/iconsi=sass,java,cs,javascript,typescript,vite,vue,linux,docker,fastapi,github,markdown,unity)
+![Tech Stack](https://skillicons.dev/icons?i=sass,java,cs,javascript,typescript,vite,vue,linux,docker,fastapi,github,markdown,unity)
 
 ## 🛠️&nbsp;GitHub Analytics
 
