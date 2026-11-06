@@ -15,7 +15,7 @@
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,python,django,git,vscode,notion)
 
 ## Now Training Language,FrameWork&others
-![Tech Stack](https://skillicons.dev/icons?i=java,C#,javascript,typescript,fastapi,github,markdown,unity)
+![Tech Stack](https://skillicons.dev/iconsi=java,C#,javascript,typescript,fastapi,github,markdown,unity)
 
 ## 🛠️&nbsp;GitHub Analytics
 
@@ -29,7 +29,7 @@
 -----
 
 **Credits: [k-tachibana094](https://github.com/k-tachibana094)**<br>  
-**Last Edited on: 07/20/2026**
+**Last Edited on: 11/06/2026**
 
 <!--
 **k-tachibana094/k-tachibana094** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
