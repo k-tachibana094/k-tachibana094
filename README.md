@@ -12,10 +12,10 @@
 #### Also, my native language is Japanese, so I can't speak much English—I'm studying it right now.
 
 ## My Language and Tools
-![Tech Stack](https://skillicons.dev/icons?i=html,css,python,django,git,vscode,notion,gmail)
+![Tech Stack](https://skillicons.dev/icons?i=html,css,python,django,git,vscode,notion,gmail,markdown,github)
 
 ## Now Training Language,FrameWork&others
-![Tech Stack](https://skillicons.dev/icons?i=sass,java,cs,javascript,typescript,vite,vue,linux,docker,fastapi,github,markdown,unity)
+![Tech Stack](https://skillicons.dev/icons?i=sass,java,cs,javascript,typescript,vite,vue,linux,docker,fastapi,unity)
 
 ## 🛠️&nbsp;GitHub Analytics
 
